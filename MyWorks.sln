@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{615F38E2-31E6-4827-888B-9F7CCBF29DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacExample", "AutofacExample\AutofacExample.csproj", "{A8816A25-4871-444F-9559-C95C69FE357B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615F38E2-31E6-4827-888B-9F7CCBF29DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615F38E2-31E6-4827-888B-9F7CCBF29DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615F38E2-31E6-4827-888B-9F7CCBF29DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615F38E2-31E6-4827-888B-9F7CCBF29DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8816A25-4871-444F-9559-C95C69FE357B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8816A25-4871-444F-9559-C95C69FE357B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8816A25-4871-444F-9559-C95C69FE357B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8816A25-4871-444F-9559-C95C69FE357B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

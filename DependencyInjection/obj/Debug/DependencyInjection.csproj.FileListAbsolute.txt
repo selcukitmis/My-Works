@@ -1,0 +1,6 @@
+C:\Users\slck8\Dropbox\Projelerim\C#\MyWorks\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\slck8\Dropbox\Projelerim\C#\MyWorks\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\slck8\Dropbox\Projelerim\C#\MyWorks\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\slck8\Dropbox\Projelerim\C#\MyWorks\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\slck8\Dropbox\Projelerim\C#\MyWorks\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\slck8\Dropbox\Projelerim\C#\MyWorks\DependencyInjection\obj\Debug\DependencyInjection.pdb
